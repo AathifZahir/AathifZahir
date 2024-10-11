@@ -56,7 +56,4 @@ I'm **Aathif Zahir**, a passionate software engineer with a strong foundation in
 - **Email**: [aathifzahir12@gmail.com](mailto:aathifzahir12@gmail.com)
 - **Phone**: [+94 76 527 1411](tel:+94765271411)
 - **LinkedIn**: [Aathif Zahir](https://linkedin.com/in/aathifzahir)  ![Connect](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)
----
 
-## ⚖️ License
-![License](https://img.shields.io/github/license/aathifzahir/aathifzahir-readme?color=blue&logo=github)
