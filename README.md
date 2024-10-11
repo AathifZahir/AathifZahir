@@ -59,4 +59,4 @@ I'm **Aathif Zahir**, a passionate software engineer with a strong foundation in
 ---
 
 ## ⚖️ License
-![License](https://img.shields.io/github/license/aathifzahir/aathif-zahir-readme?color=blue&logo=github)
+![License](https://img.shields.io/github/license/aathifzahir/aathifzahir-readme?color=blue&logo=github)
