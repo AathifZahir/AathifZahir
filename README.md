@@ -10,7 +10,7 @@ I'm **Aathif Zahir**, a passionate software engineer with a strong foundation in
 - **Food Ordering System** - An online food ordering system for restaurant operations, with features like order management and authentication.
 - **Pro Intern** - A platform designed to facilitate internship management, allowing interns to apply for internships and manage their applications effectively.
 
-[![Explore Projects](https://img.shields.io/badge/Explore_More-Projects-orange)](#)
+[![Explore Projects](https://img.shields.io/badge/Explore_More-Projects-orange)](https://github.com/AathifZahir?tab=repositories)
 
 ---
 
