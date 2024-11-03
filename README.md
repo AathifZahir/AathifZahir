@@ -8,7 +8,7 @@ I'm **Aathif Zahir**, a passionate software engineer with a strong foundation in
 ## 🚀 Featured Projects
 - **MSR Tailor Store** - A comprehensive management system for a brick-and-click business model, streamlining operations for both physical and online components.
 - **Food Ordering System** - An online food ordering system for restaurant operations, with features like order management and authentication.
-- **Online E-commerce Store** - A fully-featured e-commerce platform designed to receive and manage customer orders efficiently.
+- **Pro Intern** - A platform designed to facilitate internship management, allowing interns to apply for internships and manage their applications effectively.
 
 [![Explore Projects](https://img.shields.io/badge/Explore_More-Projects-orange)](#)
 
