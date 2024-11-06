@@ -17,7 +17,7 @@ I'm **Aathif Zahir**, a passionate software engineer with a strong foundation in
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aathif.zahir) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aathifzahir) 
-[![X](https://img.shields.io/badge/X-%23000000.svg?logo=linkedin&logoColor=white)](https://x.com/l4zyl0ad1ng)
+[![X](https://img.shields.io/badge/X-%23000000.svg?logo=x&logoColor=white)](https://x.com/l4zyl0ad1ng)
 
 
 ## 💻 Tech Stack:
