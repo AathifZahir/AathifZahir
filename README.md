@@ -39,10 +39,10 @@ I'm **Aathif Zahir**, a passionate software engineer with a strong foundation in
 
 ## 📊 GitHub Stats:
 <!-- GitHub Stats -->
-![Aathif Zahir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AathifZahir&show_icons=true&theme=github-dark-green)
+![Aathif Zahir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AathifZahir&show_icons=true&theme=dark)
 
 <!-- Top Languages -->
-![Aathif Zahir's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AathifZahir&layout=compact&theme=github-dark-green)
+![Aathif Zahir's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AathifZahir&layout=compact&theme=dark)
 
 
 
