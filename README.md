@@ -46,7 +46,7 @@ I'm **Aathif Zahir**, a passionate software engineer with a strong foundation in
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=AathifZahir&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## ✍️ Random Dev Quote
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=Our%20life%20is%20the%20sum%20of%20our%20choices&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ---
 
