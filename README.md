@@ -39,13 +39,11 @@ I'm **Aathif Zahir**, a passionate software engineer with a strong foundation in
 
 ## 📊 GitHub Stats:
 <!-- GitHub Stats -->
-![Aathif Zahir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AathifZahir&show_icons=true&theme=radical)
-
-<!-- GitHub Streak -->
-![Aathif Zahir's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AathifZahir&theme=radical)
+![Aathif Zahir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AathifZahir&show_icons=true&theme=github-dark-green)
 
 <!-- Top Languages -->
-![Aathif Zahir's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AathifZahir&layout=compact&theme=radical)
+![Aathif Zahir's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AathifZahir&layout=compact&theme=github-dark-green)
+
 
 
 ## 🏆 GitHub Trophies
