@@ -1,4 +1,5 @@
-![image](https://placehold.co/1200x300)
+
+<p align="center" ><img src = "https://i.ibb.co.com/QN6WxHW/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d.gif" height="200"/></p>
 
 <h1 align="center">
   <a href="https://twitter.com/l4zyl0ad1ng" target="blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="l4zyl0ad1ng" /></a>
