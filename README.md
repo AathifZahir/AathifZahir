@@ -2,10 +2,9 @@
 <p align="center" ><img src = "https://i.ibb.co.com/QN6WxHW/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d.gif" height="200"/></p>
 
 <h1 align="center">
-  <a href="https://twitter.com/l4zyl0ad1ng" target="blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="l4zyl0ad1ng" /></a>
+  <a href="https://twitter.com/l4zyl0ad1ng" target="blank"><img src="https://img.shields.io/badge/X-Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="l4zyl0ad1ng" /></a>
   <a href="https://linkedin.com/in/aathifzahir" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="aathifzahir" /></a>
   <a href="https://instagram.com/aathif.zahir" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="aathif.zahir" /></a>
-  <a href="https://discord.gg/759770035069386842" target="blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="759770035069386842" /></a>
 </h1>
 
 <p>Hello! I'm Aathif Zahir, a passionate software developer with a strong focus on both front-end and back-end development. I specialize in technologies such as JavaScript, React, Node.js, and Firebase. I enjoy solving complex problems and building scalable, efficient applications. Currently, I'm expanding my knowledge in areas like cloud computing and AI, always eager to learn new technologies. My goal is to create meaningful solutions that can make a positive impact and contribute to the tech community.</p>
